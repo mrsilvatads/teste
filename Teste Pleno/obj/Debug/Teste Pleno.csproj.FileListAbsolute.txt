@@ -1,0 +1,7 @@
+E:\C#\Teste Pleno\Teste Pleno\obj\Debug\Teste Pleno.csprojAssemblyReference.cache
+E:\C#\Teste Pleno\Teste Pleno\obj\Debug\Teste Pleno.csproj.CoreCompileInputs.cache
+E:\C#\Teste Pleno\Teste Pleno\bin\Debug\Teste Pleno.exe.config
+E:\C#\Teste Pleno\Teste Pleno\bin\Debug\Teste Pleno.exe
+E:\C#\Teste Pleno\Teste Pleno\bin\Debug\Teste Pleno.pdb
+E:\C#\Teste Pleno\Teste Pleno\obj\Debug\Teste Pleno.exe
+E:\C#\Teste Pleno\Teste Pleno\obj\Debug\Teste Pleno.pdb
